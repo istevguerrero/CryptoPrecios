@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
 
         flexDirection: "row",
 
-        justifyContent: "space-between"
+        justifyContent: "space-between",
 
     },
 
@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
 
         color: "#fff",
 
-        textAlign: "right"
+        textAlign: "right",
 
     },
 

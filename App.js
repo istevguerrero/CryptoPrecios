@@ -35,7 +35,7 @@ const App = () => {
 
     <View style={styles.container}>
 
-      <statusBar backgroundColor="#141414"></statusBar>
+      <StatusBar backgroundColor="#141414"></StatusBar>
 
       <View style={styles.header}>
 
@@ -124,7 +124,7 @@ const styles = StyleSheet.create({
 
     width: "90%",
 
-    marginBottom: 10
+    marginBottom: 10,
 
 
   },
@@ -142,9 +142,6 @@ const styles = StyleSheet.create({
     textAlign: "center",
 
   }
-
-
-
 
 })
 
